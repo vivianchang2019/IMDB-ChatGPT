@@ -3,3 +3,4 @@ Pipfile.lock
 api_secrets.py
 .idea
 .ipynb_checkpoints
+index.json
