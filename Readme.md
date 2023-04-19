@@ -24,7 +24,7 @@
 <br>
 
 ### 3. imdb_gptbot
-**imdb_gptbot.py** 是一個使用GPT-3.5語言模型，建立**自定義(IMDB)電影知識庫AI**的Python腳本。
+**imdb_gptbot.py** 是一個使用GPT-3.5語言模型與llama_index套件，建立**自定義(IMDB)電影知識庫AI**的Python腳本。
 ChatGPT會根據用戶提供的電影數據(imdb_webscraper爬蟲儲存的TXT檔)，回答用戶對電影相關問題的提問。
 <br>
 <br>
@@ -72,7 +72,7 @@ Script summaries are as follows:
 <br>
 
 ### 3. imdb_gptbot
-**imdb_gptbot.py** is a Python script that uses the GPT-3.5 language model to create a custom (IMDB) movie knowledge base AI. ChatGPT will answer user questions about movies based on the movie data provided by the user (stored in a TXT file obtained through the imdb_webscraper web scraper).
+**imdb_gptbot.py** is a Python script that uses the GPT-3.5 language model and 'llama_index' package to create a custom (IMDB) movie knowledge base AI. ChatGPT will answer user questions about movies based on the movie data provided by the user (stored in a TXT file obtained through the imdb_webscraper web scraper).
 <br>
 <br>
 **imdb_gptbot_Demo.ipynb** is the same as the above, but demonstrates the results using a jupyter notebook.
@@ -87,6 +87,6 @@ The imdb_webscraper.py script requires the requests and BeautifulSoup libraries,
 ## [Usage]
 To use any of the scripts, simply run the Python file in a terminal or IDE. The scripts will prompt the user for input and display the results on the console.
 <br><br>
-For gpt_chatbot_Demo.py and imdb_gptbot.py, make sure to set your OpenAI API key in the script before running it.
+For gpt_chatbot_Demo.py and imdb_gptbot.py, make sure to set your OpenAI API key in the script before running it. 
 <br><br>
 For imdb_webscraper.py, running the script will automatically scrape data from the IMDb website and display the results on the console
