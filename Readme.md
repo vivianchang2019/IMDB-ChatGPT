@@ -6,8 +6,7 @@
 
 1. gpt_chatbot_Demo.ipynb : 簡單展示ChatGPI API的使用方式。
 2. imdb_webscraper_Demo.ipynb: 從IMDb網站爬取電影資料。
-3. imdb_gptbot_Demo.ipynb: 利用IMDb網站資料，建置個人(IMDB)電影知識庫AI。
-
+3. imdb_gptbot_Demo.ipynb: 利用IMDb網站資料與ChatGPT，建置個人(IMDB)電影知識庫AI。
 
 <br>
 
@@ -57,7 +56,7 @@ Script summaries are as follows:
 
 1. gpt_chatbot_Demo.ipynb: Demonstrates the use of the ChatGPI API in a simple way.
 2. imdb_webscraper_Demo.ipynb: Scrapes movie data from the IMDb website.
-3. imdb_gptbot_Demo.ipynb: Builds a personal (IMDB) movie knowledge base AI using data from the IMDb website.
+3. imdb_gptbot_Demo.ipynb: Builds a personal (IMDB) movie knowledge base AI using data from the IMDb website and ChatGPI.
 
 ## [Explanations of scripts]
 
